@@ -2,14 +2,14 @@
 
 - heading: Browse All Topics
   categories:
-    - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+    - title: Creating a New Page
+      desc: Add a new page to your website
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
+    - title: Setting up a lead form landing page
+      desc: Hiding the menu and using the components that match your message.
+      icon: settings
 
-    - title: Troubleshooting
-      desc: Answers to most common configuration issues
+    - title: Components Guides
+      desc: Individual step by step guides for every component
       icon: cog

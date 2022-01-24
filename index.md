@@ -1,7 +1,7 @@
 ---
 layout: help
 title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+subtitle: Find guides and answers on how to use the Next Gen Component Library
 hero:
     background: "#663399"
     image: header_2.jpg
