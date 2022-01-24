@@ -5,6 +5,7 @@ subtitle: Find guides and answers on how to use the Next Gen Component Library
 hero:
     background: "#0069A7"
     image: header.jpg
+    overlay: "linear-gradient(-200deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.3) 53%, rgba(255, 255, 255, 0.3) 100%)"
     align: center
     text: dark
     search: true
