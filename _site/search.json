@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "Creating a New Page",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "Shutta-Cognita-NextGen/post8/",
+      "date"     : "2017-05-25 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Getting a JavaScript console error",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/post7/",
+      "url"      : "Shutta-Cognita-NextGen/post7/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -12,7 +20,7 @@
       "title"    : "Selecting the right fonts and colors",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post63/",
+      "url"      : "Shutta-Cognita-NextGen/post63/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -20,7 +28,7 @@
       "title"    : "Design tips for choosing great images",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post62/",
+      "url"      : "Shutta-Cognita-NextGen/post62/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -28,7 +36,7 @@
       "title"    : "Upgrading to paid service",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post61/",
+      "url"      : "Shutta-Cognita-NextGen/post61/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -36,7 +44,7 @@
       "title"    : "Purchasing domain name and DNS setup",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post60/",
+      "url"      : "Shutta-Cognita-NextGen/post60/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -44,7 +52,7 @@
       "title"    : "Using Private Browsing or Incognito mode",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post6/",
+      "url"      : "Shutta-Cognita-NextGen/post6/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -52,7 +60,7 @@
       "title"    : "Accepted currencies for product billing",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/post5/",
+      "url"      : "Shutta-Cognita-NextGen/post5/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -60,7 +68,7 @@
       "title"    : "Cancelling a website subscription",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/post4/",
+      "url"      : "Shutta-Cognita-NextGen/post4/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -68,7 +76,7 @@
       "title"    : "Updating your billing credit card",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post3/",
+      "url"      : "Shutta-Cognita-NextGen/post3/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -76,7 +84,7 @@
       "title"    : "Understanding company billing and accounts",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post2/",
+      "url"      : "Shutta-Cognita-NextGen/post2/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -84,7 +92,7 @@
       "title"    : "Setting up new domain and page",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/post1/",
+      "url"      : "Shutta-Cognita-NextGen/post1/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -92,7 +100,7 @@
       "title"    : "Getting started with our application",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/post0/",
+      "url"      : "Shutta-Cognita-NextGen/post0/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } ,
   
@@ -100,14 +108,7 @@
       "title"    : "How To Setup Naked Domain SSL With Github Pages",
       "category" : "",
       "tags"     : "",
-      "url"      : "/post/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    },  
-    {
-      "title"    : "Creating a New Page",
-      "category" : "",
-      "tags"     : "featured",
-      "url"      : "/post8/",
+      "url"      : "Shutta-Cognita-NextGen/post/",
       "date"     : "2017-05-25 00:00:00 +0700"
     } 
   
