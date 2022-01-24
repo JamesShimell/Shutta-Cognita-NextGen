@@ -3,7 +3,7 @@ layout: help
 title: How Can We Help?
 subtitle: Find guides and answers on how to use the Next Gen Component Library
 hero:
-    background: "#663399"
+    background: "#0069A7"
     image: header.jpg
     align: center
     text: dark
