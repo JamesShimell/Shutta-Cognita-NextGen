@@ -14,9 +14,6 @@ category:
 featured:
     title: Components Guides
     tag: featured
-featured:
-    title: Adding Pages
-    tag: featured
 cta:
     title: Didn't find an answer to your question?
     subtitle: Get in touch with us for details on additional services and custom work pricing
