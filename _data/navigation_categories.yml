@@ -2,10 +2,9 @@
 
 - heading: Browse All Topics
   categories:
-    - title: Creating a New Page
+    - title: Adding Pages
       desc: Add a new page to your website
       icon: settings
-      url: "https://jamesshimell.github.io/Shutta-Cognita-NextGen/post8/"
 
     - title: Setting up a lead form landing page
       desc: Hiding the menu and using the components that match your message.
@@ -13,4 +12,4 @@
 
     - title: Components Guides
       desc: Individual step by step guides for every component
-      icon: cog
+      icon: steps

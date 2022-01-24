@@ -12,7 +12,10 @@ hero:
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Components Guides
+    tag: featured
+featured:
+    title: Adding Pages
     tag: featured
 cta:
     title: Didn't find an answer to your question?
