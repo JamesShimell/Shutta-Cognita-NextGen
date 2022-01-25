@@ -24,19 +24,19 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
+    name:           James Shimell
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:       
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:      
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:        
+    vimeo:          
     youtube:
 
 # Social share buttons
@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
+    copyright:      Made by <a href="https://shutta.co/">Shutta</a>.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
