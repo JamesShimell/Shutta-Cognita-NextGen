@@ -1,123 +1,275 @@
 [
   
     {
-      "title"    : "Creating a New Page",
+      "title"    : "Update the header video",
       "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post8/",
-      "date"     : "2019-05-25 00:00:00 +0700"
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/UpdateVideoContent/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Update the Privacy Policy",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/UpdatePrivacyPolicy/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Update social page links",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/SocialLinks/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Remove team member access to dashboard",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/RemoveTeamMember/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Remove a component from a page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/RemoveComponent/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change related pages",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/RelatedPages/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Update the ReCaptcha API Key",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/RecaptchaKey/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Create a new page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/NewPage/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Create a landing page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/NewLandingPage/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Invite team member",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/InviteTeamMember/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Gallery",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ImageGallery/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Update the Google Maps API key",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/GoogleAPIKey/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add testimonial content",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditTestiomonials/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit menu style",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditMenuStyle/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Leadership and Staff component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditLeadership/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit body component styles",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditBodyComponents/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit accreditions logos",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditAccreditations/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add list type content",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CreateAList/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change url page name",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeURL/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Textual Content",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeTextualContent/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change the website logo",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeLogo/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change Icons",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeIcons/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change page header style",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeHeaderStyle/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change page footer style",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeFooterStyle/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change background color",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeBackgroundColour/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change background image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ChangeBGImage/",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Change button link",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ButtonLink/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
       "title"    : "Adding Pages",
       "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post10/",
-      "date"     : "2019-05-25 00:00:00 +0700"
+      "tags"     : "Authentication",
+      "url"      : "/Shutta-Cognita-NextGen/AdminAccess/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Getting a JavaScript console error",
+      "title"    : "Add a page to the navigation menu",
       "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post7/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "tags"     : "Navigation",
+      "url"      : "/Shutta-Cognita-NextGen/AddPageMenu/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Selecting the right fonts and colors",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post63/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Design tips for choosing great images",
+      "title"    : "Add Downloadables",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post62/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "url"      : "/Shutta-Cognita-NextGen/AddDownloadables/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Upgrading to paid service",
+      "title"    : "Add a component to a page",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post61/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "url"      : "/Shutta-Cognita-NextGen/AddComponent/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Purchasing domain name and DNS setup",
+      "title"    : "Add a blog article",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post60/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "url"      : "/Shutta-Cognita-NextGen/AddArticle/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Using Private Browsing or Incognito mode",
+      "title"    : "Add a new teacher",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post6/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "url"      : "/Shutta-Cognita-NextGen/AddANewTeacher/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } ,
   
     {
-      "title"    : "Accepted currencies for product billing",
-      "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post5/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Cancelling a website subscription",
-      "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post4/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Updating your billing credit card",
+      "title"    : "Add a gallery",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post3/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Understanding company billing and accounts",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post2/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Setting up new domain and page",
-      "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post1/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Getting started with our application",
-      "category" : "",
-      "tags"     : "featured",
-      "url"      : "/Shutta-Cognita-NextGen/post0/",
-      "date"     : "2017-05-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "How To Setup Naked Domain SSL With Github Pages",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/post/",
-      "date"     : "2017-05-25 00:00:00 +0700"
+      "url"      : "/Shutta-Cognita-NextGen/AddAGallery/",
+      "date"     : "2022-01-25 00:00:00 +0700"
     } 
   
 ]

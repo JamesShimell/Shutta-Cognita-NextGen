@@ -1,20 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-01-25T13:33:43+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Desk</title><subtitle>Knowledge base Jekyll theme.</subtitle><author><name>John Smith</name></author><entry><title type="html">Creating a New Page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post8/" rel="alternate" type="text/html" title="Creating a New Page" /><published>2019-05-25T00:00:00+07:00</published><updated>2019-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post8</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post8/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-01-25T14:59:34+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Desk</title><subtitle>Knowledge base Jekyll theme.</subtitle><author><name>John Smith</name></author><entry><title type="html">Update the header video</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent/" rel="alternate" type="text/html" title="Update the header video" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -46,23 +55,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Troubleshooting" /><category term="featured" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Adding Pages</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post10/" rel="alternate" type="text/html" title="Adding Pages" /><published>2019-05-25T00:00:00+07:00</published><updated>2019-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post10</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post10/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add a new teacher</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/" rel="alternate" type="text/html" title="Add a new teacher" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -94,23 +112,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Troubleshooting" /><category term="featured" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Understanding company billing and accounts</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post2/" rel="alternate" type="text/html" title="Understanding company billing and accounts" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post2</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post2/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add a blog article</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddArticle/" rel="alternate" type="text/html" title="Add a blog article" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddArticle</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddArticle/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -142,23 +169,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Account and Billing" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Updating your billing credit card</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post3/" rel="alternate" type="text/html" title="Updating your billing credit card" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post3</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post3/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Wordpress Admin" /><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add a component to a page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddComponent/" rel="alternate" type="text/html" title="Add a component to a page" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddComponent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddComponent/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -190,23 +226,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Account and Billing" /><category term="Troubleshooting" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Cancelling a website subscription</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post4/" rel="alternate" type="text/html" title="Cancelling a website subscription" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post4</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post4/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Getting Started" /><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add Downloadables</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddDownloadables/" rel="alternate" type="text/html" title="Add Downloadables" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddDownloadables</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddDownloadables/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -238,23 +283,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Account and Billing" /><category term="Troubleshooting" /><category term="featured" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Accepted currencies for product billing</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post5/" rel="alternate" type="text/html" title="Accepted currencies for product billing" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post5</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post5/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add a page to the navigation menu</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddPageMenu/" rel="alternate" type="text/html" title="Add a page to the navigation menu" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddPageMenu</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddPageMenu/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -286,23 +340,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Account and Billing" /><category term="featured" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Using Private Browsing or Incognito mode</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post6/" rel="alternate" type="text/html" title="Using Private Browsing or Incognito mode" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post6</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post6/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Wordpress Admin" /><category term="Navigation" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Adding Pages</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AdminAccess/" rel="alternate" type="text/html" title="Adding Pages" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AdminAccess</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AdminAccess/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -334,23 +397,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Troubleshooting" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Purchasing domain name and DNS setup</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post60/" rel="alternate" type="text/html" title="Purchasing domain name and DNS setup" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post60</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post60/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Getting Started" /><category term="Wordpress Admin" /><category term="Authentication" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Change button link</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ButtonLink/" rel="alternate" type="text/html" title="Change button link" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ButtonLink</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ButtonLink/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -382,23 +454,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Troubleshooting" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Upgrading to paid service</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post61/" rel="alternate" type="text/html" title="Upgrading to paid service" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post61</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post61/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Change background image</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ChangeBGImage/" rel="alternate" type="text/html" title="Change background image" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ChangeBGImage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ChangeBGImage/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -430,23 +511,32 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Troubleshooting" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Design tips for choosing great images</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/post62/" rel="alternate" type="text/html" title="Design tips for choosing great images" /><published>2017-05-25T00:00:00+07:00</published><updated>2017-05-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/post62</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/post62/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Change background color</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ChangeBackgroundColour/" rel="alternate" type="text/html" title="Change background color" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ChangeBackgroundColour</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ChangeBackgroundColour/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
   <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
 </ul>
 
-<p>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.</p>
+<p>Determining your login URL</p>
 
-<p>Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</p>
+<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
+
+<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
+
+<p>Logging In</p>
+
+<p>Go to your login URL.
+Enter your WordPress username and password and click “Log in”.
+Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
+You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
 
 <h2 id="image-lightbox-example">Image Lightbox Example</h2>
 <p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
 
 <figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/image1.png" alt="Alt for image" />
+    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
+        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
         <div class="uk-position-center">
             <span data-uk-overlay-icon=""></span>
         </div>
@@ -478,4 +568,4 @@
 
 <p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
 
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>John Black</name></author><category term="Getting Started" /><category term="Troubleshooting" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry></feed>
+<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry></feed>

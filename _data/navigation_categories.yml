@@ -6,10 +6,10 @@
       desc: Add a new page to your website
       icon: settings
 
-    - title: Troubleshooting
-      desc: Hiding the menu and using the components that match your message.
+    - title: Component Guides
+      desc: Individual step by step guides for every component
       icon: settings
 
-    - title: Components Guides
-      desc: Individual step by step guides for every component
-      icon: steps
+    - title: Wordpress Admin
+      desc: Manage users and core website styles
+      icon: settings

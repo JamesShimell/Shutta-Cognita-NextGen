@@ -12,8 +12,8 @@ hero:
 category:
     columns: 3
 featured:
-    title: Components Guides
-    tag: featured
+    title: Authentication
+    tag: Authentication
 cta:
     title: Didn't find an answer to your question?
     subtitle: Get in touch with us for details on additional services and custom work pricing
