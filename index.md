@@ -16,7 +16,7 @@ featured:
     tag: Authentication
 cta:
     title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
-    button_url: /contact/      
+    subtitle: How about raising a support ticket and we will respond to you asap.
+    button_text: Raise A Ticket   
+    button_url: https://shutta.co     
 ---
