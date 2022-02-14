@@ -1,61 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-01-25T15:33:23+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Update the header video</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent/" rel="alternate" type="text/html" title="Update the header video" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/UpdateVideoContent/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
-<ul id="markdown-toc">
-  <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
-  <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
-  <li><a href="#text-and-quote" id="markdown-toc-text-and-quote">Text and Quote</a></li>
-</ul>
-
-<p>Determining your login URL</p>
-
-<p>The default URL to login to WordPress is the same URL you would use to visit your site but with “/wp-admin” added to the end of it.</p>
-
-<p>For example if I visit my WordPress website at www.example.com. I would go to www.example.com/wp-admin to access the login screen.</p>
-
-<p>Logging In</p>
-
-<p>Go to your login URL.
-Enter your WordPress username and password and click “Log in”.
-Note: If you are already logged in you will be taken to the dashboard directly, without asking for a username and password.
-You now have access to your WordPress dashboard where you can manage your WordPress site.</p>
-
-<h2 id="image-lightbox-example">Image Lightbox Example</h2>
-<p>Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.</p>
-
-<figure data-uk-lightbox="animation: slide">
-    <a class="uk-inline" href="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" caption="Image in lightbox">
-        <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
-        <div class="uk-position-center">
-            <span data-uk-overlay-icon=""></span>
-        </div>
-    </a>
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Image in lightbox</span></figcaption>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-02-14T11:01:17+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Add a Call to Action</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddCTA/" rel="alternate" type="text/html" title="Add a Call to Action" /><published>2022-02-09T00:00:00+07:00</published><updated>2022-02-09T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddCTA</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddCTA/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/centered_cta.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Centered CTA</span></figcaption>
 </figure>
 
-<p>Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.</p>
+<h2 id="description">Description</h2>
 
-<h2 id="example-of-code-block">Example Of Code Block</h2>
-<p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>A call to action component can be used to drive traffic to key landing pages like “Open Days” or “Enquiry forms”. The key to a powerful call to action is to provide visitors with compelling reasons to click the button. Using a title you can pose a question that resonates with your audience and then using imperative verbs for the button text such as “Book a Tour”, “Download Now”, and “Learn More” you can encourage your visitors to navigate to the pages that drive conversion.</p>
 
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;head&gt;</span>
-  <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;meta</span> <span class="na">http-equiv=</span><span class="s">"X-UA-Compatible"</span> <span class="na">content=</span><span class="s">"IE=edge"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">"viewport"</span> <span class="na">content=</span><span class="s">"width=device-width, initial-scale=1"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"/Shutta-Cognita-NextGen/assets/css/main.css"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"shortcut icon"</span> <span class="na">type=</span><span class="s">"image/png"</span> <span class="na">href=</span><span class="s">"/Shutta-Cognita-NextGen/assets/img/favicon.png"</span> <span class="nt">&gt;</span>
-  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/Shutta-Cognita-NextGen/assets/js/main.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;/head&gt;</span>
-</code></pre></div></div>
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/dashboard.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Log In</span></figcaption>
+</figure>
 
-<h2 id="text-and-quote">Text and Quote</h2>
-<p>Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.</p>
+<h2 id="using-the-call-to-action-component">Using the Call to Action Component</h2>
 
+<ol>
+  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
+  <li>Click the + symbol on the top menu to open the component menu</li>
+  <li>Navigate to the section Next-Gen</li>
+  <li>Find the “CTA component” and click the option</li>
+  <li>This has added the component to your page but there is still some setup to do</li>
+  <li>Select which CTA template you would like to choose</li>
+  <li>Fill in the title</li>
+  <li>Give your buttons titles</li>
+  <li>Under button link add the URL destination the button should navigate to</li>
+  <li>Finally Click update to apply your settings and see the completed component</li>
+  <li>When you are happy with the look of the component you need to save the page changes by clicking “Update”</li>
+</ol>
+
+<h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
-  <p>Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet</p>
-</blockquote>
-
-<p>In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
-
-<p>Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.</p>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Sections in this article]]></summary></entry><entry><title type="html">Add a new teacher</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/" rel="alternate" type="text/html" title="Add a new teacher" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
+  <p>Hide one of the buttons by removing the button title in the component configuration settings.</p>
+</blockquote>]]></content><author><name>James Shimell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Centered CTA]]></summary></entry><entry><title type="html">Add a new teacher</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/" rel="alternate" type="text/html" title="Add a new teacher" /><published>2022-01-25T00:00:00+07:00</published><updated>2022-01-25T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewTeacher/"><![CDATA[<h4 class="no_toc" id="sections-in-this-article">Sections in this article</h4>
 <ul id="markdown-toc">
   <li><a href="#image-lightbox-example" id="markdown-toc-image-lightbox-example">Image Lightbox Example</a></li>
   <li><a href="#example-of-code-block" id="markdown-toc-example-of-code-block">Example Of Code Block</a></li>
