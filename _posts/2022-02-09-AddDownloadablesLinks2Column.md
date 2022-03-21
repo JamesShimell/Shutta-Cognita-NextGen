@@ -16,11 +16,16 @@ A page with helpful downloadable files on your website will be beneficial to you
 
 ## Using the Downloadable Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Downloadables
+5. The settings box will open out, select type 2 columns
+6. This will create a second tab
+7. Populate the first tab with the files you want in the first column
+8. Use the second tab to populate the files you want to show in the second column
+9. Click save the component will be added to the end of the page
+10. You can drag it to the right place in your page by selecting the left corner of the row
 
 
 ## Pro Tip

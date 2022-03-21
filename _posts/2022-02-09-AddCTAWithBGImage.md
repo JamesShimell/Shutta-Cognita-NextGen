@@ -16,12 +16,20 @@ The Call to action (CTA) content on a website is one of the most vital marketing
 
 ## Using the CTA Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option CTA Centered
+5. The settings box will open out, select template 1 column
+6. Add a catchy title and subtitle
+7. Add the buttons and URL links
+8. You can choose to add a background image by clicking on the Design Options tab
+7. Click save the component will be added to the end of the page
+8. You can drag it to the right place in your page by selecting the left corner of the row
 
+
+For further details on managing rows please check out the following article:
+[Creating columns](/Shutta-Cognita-NextGen/SettingUpAGrid/)
 
 ## Pro Tip
 > Be concisely creative with the text you use on your CTA buttons. One word CTAs are often boring so avoid: submit, enter, call etc… Think of more enticing instructions such as: Book a tour, Take a virtual tour etc…

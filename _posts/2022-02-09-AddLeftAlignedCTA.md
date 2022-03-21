@@ -18,9 +18,15 @@ Call to action (CTA) buttons are probably the most essential elements on your we
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option CTA left aligned
+5. The settings box will open out, select the template 2 columns
+6. Add a catchy title and subtitle
+7. Define the buttons and links you want to setup for the CTA
+8. Under design options you can set the background image or leave it blank if you do not want to include a background image
+9. Click save the component will be added to the end of the page
+10. You can drag it to the right place in your page by selecting the left corner of the row
 
 
 ## Pro Tip

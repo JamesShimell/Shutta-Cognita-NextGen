@@ -18,9 +18,14 @@ The Donut Chart has succeeded the Pie Chart when it comes to successfully displa
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Statistics Chart
+5. The settings box will open out add the Statistic and Statistics title
+6. Complete for all tabs
+7. Click save the component will be added to the end of the page
+8. You can drag it to the right place in your page by selecting the left corner of the row
+
 
 
 ## Pro Tip

@@ -16,11 +16,16 @@ This header image component is a simple yet effective way to encourage your audi
 
 ## Using the Header Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Lead Form with Background
+5. The settings box will open out, add a title and subtitle
+6. Select the Lead form option under the Form dropdown
+7. Click the tab design options and add a background image
+8. Click save the component will be added to the end of the page
+9. You can drag it to the right place in your page by selecting the left corner of the row
+
 
 
 ## Pro Tip

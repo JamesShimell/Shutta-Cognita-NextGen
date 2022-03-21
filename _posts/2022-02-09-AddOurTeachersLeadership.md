@@ -17,12 +17,16 @@ This leadership component provides the perfect way to present your leadership te
 
 ## Using the Our Teachers Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Our Teachers Leadership
+5. The settings box will open out, select the amount of posts you want to display
+6. Click save the component will be added to the end of the page
+7. You can drag it to the right place in your page by selecting the left corner of the row
 
+Our teachers content is managed in the admin area you can manage the posts by navigating to the Teacher menu item in wp-admin. For further details please see the following article:
+[Managing Our Teacher content](/Shutta-Cognita-NextGen/CPT-Teachers/)
 
 ## Pro Tip
 > Take advantage of the leadership content to promote the special qualities of your staff and to affirm once again why your school is so exceptional!

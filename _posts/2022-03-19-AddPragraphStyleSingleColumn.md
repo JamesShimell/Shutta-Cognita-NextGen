@@ -18,9 +18,16 @@ The single-column layout is a simple and effective way of using text on a page t
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Paragraph Style - Single column Image
+5. The settings box will open out, add the title and paragraph content
+6. By default the component will create a grid of four, two rows of two columns
+7. Complete only the first two tabs if you want one row of two columns
+9. Continue through the other tabs populating the content
+10. Click save the component will be added to the end of the page
+11. You can drag it to the right place in your page by selecting the left corner of the row
+
 
 
 ## Pro Tip

@@ -16,12 +16,18 @@ Using a grid layout is an appealing way to introduce your professional and frien
 
 ## Using the Our Teachers Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Our Teachers Grid
+5. The settings box will open out, select the amount of posts you want to display
+6. Choose how many columns you want to display
+7. Check the boxes Show title, Show position, show image and show button
+8. Click save the component will be added to the end of the page
+9. You can drag it to the right place in your page by selecting the left corner of the row
 
+Our teachers content is managed in the admin area you can manage the posts by navigating to the Teacher menu item in wp-admin. For further details please see the following article:
+[Managing Our Teacher content](/Shutta-Cognita-NextGen/CPT-Teachers/)
 
 ## Pro Tip
 > A webpage that uses a grid layout is easy to update so they are a useful tool for making changes when you have new recruits to your teaching staff.

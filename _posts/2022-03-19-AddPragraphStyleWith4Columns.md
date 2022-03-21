@@ -18,9 +18,16 @@ When 2 or 3 columns won’t do! This is the ideal component to incorporate in yo
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Paragraph Style - Image header
+5. The settings box will open out select 4 columns
+6. Continue to the second tab
+7. Add your title and paragraph content
+8. Choose an image
+9. Continue through the other tabs populating the content
+10. Click save the component will be added to the end of the page
+11. You can drag it to the right place in your page by selecting the left corner of the row
 
 
 ## Pro Tip

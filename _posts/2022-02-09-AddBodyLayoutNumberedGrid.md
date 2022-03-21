@@ -16,12 +16,16 @@ This graphic component is a smart way to number and set out the steps to be take
 
 ## Using the Body Layout Component
 
-
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
-
+4. Select the option Paragraph Style Numbered Step
+5. The settings box will open out with 6 tabs 
+6. This component supports up to 5 steps, but you can choose to only complete the first three
+6. Add you title, description and choose the number for each step
+7. Cycle through the tabs adding your content
+8. Click save the component will be added to the end of the page
+9. You can drag it to the right place in your page by selecting the left corner of the row
 
 ## Pro Tip
 > bullet point .v. number? In general, bulleted lists are used when points do not have to be in a specific order & numbered lists should be applied when items need to be in order, such as action steps or timelines.

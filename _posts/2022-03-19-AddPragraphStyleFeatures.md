@@ -18,9 +18,15 @@ This is a great design component to use when there is a hierarchy of importance 
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Paragraph Style - List with Icons
+5. The settings box will open out, set the icon title and title
+6. For each item you want to add in the list select an icon and add text
+8. Continue through the other tabs populating the content
+9. Click save the component will be added to the end of the page
+10. You can drag it to the right place in your page by selecting the left corner of the row
+
 
 
 ## Pro Tip

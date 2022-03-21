@@ -18,9 +18,15 @@ It can often be difficult to engage a visitor to a webpage when it contains a la
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
+2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+4. Select the option Card Page Links
+5. The settings box will open out, add a title and url location
+6. After completing the first one the setting will add more fields
+7. Continue to add as many card page links as you need
+8. Click save the component will be added to the end of the page
+9. You can drag it to the right place in your page by selecting the left corner of the row
+
 
 
 ## Pro Tip
