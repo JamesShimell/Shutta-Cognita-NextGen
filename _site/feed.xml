@@ -1,186 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-03-21T16:46:53+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Statistics 4 Columns</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWith4Columns/" rel="alternate" type="text/html" title="Statistics 4 Columns" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWith4Columns</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWith4Columns/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_4_col.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics 4 Columns</span></figcaption>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-03-22T13:43:15+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Manage Our Testimonials CPT</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/" rel="alternate" type="text/html" title="Manage Our Testimonials CPT" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/testimonials_settings_list.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add Testimonials</span></figcaption>
 </figure>
 
 <h2 id="description">Description</h2>
 
-<p>If you have a lot of positive statistics that you want to get across to your audience then this 4 column component is ideal for the design layout of the page. The clear format will allow visitors to view details and absorb stats related to various different areas of your school and its achievements. You can present the numbers paired with symbols, icons, emoticons, and simple text to help your reader immediately digest the information.</p>
+<p>For types of content that follow a similar structure Wordpress allows us to create a custom post type to manage this content. For Testimonials we have created the custom post type Testimonials. To access the area open the admin area (wp-admin) and click on the Testimonials item on the left menu.</p>
 
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_4_col_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics 4 Columns Settings</span></figcaption>
+<p>The Testimonial management page allows you to view all the current testimonial records. You can edit an existing record or add a new Testimonial record.</p>
+
+<h2 id="adding-a-testimonial">Adding a Testimonial</h2>
+
+<ol>
+  <li>Click Add New Testimonial.</li>
+  <li>In the title section add the testimonial source (Parent/Alumni name)</li>
+  <li>Add the testimonial quote in the paragraph section.</li>
+  <li>Next add a testimonial profile picture in the featured image section</li>
+  <li>Your testimonial is now ready for publishing</li>
+  <li>To add the record you will need to click publish.</li>
+  <li>After you publish the record you will see the new record in any existing Our Teachers components where the categories have been set up to match.</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Add Testimonials]]></summary></entry><entry><title type="html">Remove a component from a page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/DeleteComponent/" rel="alternate" type="text/html" title="Remove a component from a page" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/DeleteComponent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/DeleteComponent/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/delete_component.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Delete Component</span></figcaption>
 </figure>
 
-<h2 id="using-the-statistics-component">Using the Statistics Component</h2>
+<h2 id="description">Description</h2>
+
+<p>You may have a page that you want to edit where you want to remove a section. This guide explains how to use WPBakery to remove a component/ section from a page.</p>
+
+<h2 id="remove-a-component-from-your-page">Remove a component from your page</h2>
+
+<ol>
+  <li>Navigate to the Pages menu option in the admin section</li>
+  <li>Find the page you want to make changes and click Edit in WPBakery Page Builder</li>
+  <li>When the page load scroll to the component you want to remove</li>
+  <li>Hover over the component until the Row Column label pops up in the far left corner</li>
+  <li>Expand the row options by clicking the small arrow</li>
+  <li>Now simply click the X icon to delete the row.</li>
+  <li>To save your changes you will need to click the update button in the top right corner</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Delete Component]]></summary></entry><entry><title type="html">Edit your school details</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ManageGlobalDefinitions/" rel="alternate" type="text/html" title="Edit your school details" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ManageGlobalDefinitions</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ManageGlobalDefinitions/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/next_gen_options.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Global definitions</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>Components like the menu, the footer or even lead forms contain school information like the admissions phone number, contact email addresses, instead of editing this content in multiple locations. We have set up global options to store this information allowing you to make changes in a single location and the website will update wherever that content is used.</p>
+
+<p>To update these details navigate to the admin section (wp-admin) towards the bottom of the menu you should notice the menu item Next-Gen Options.</p>
+
+<p>Open the definitions section, here you can update the any of your global site definitions and your site will automatically update these details where they have been used.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Global definitions]]></summary></entry><entry><title type="html">Manage User Roles</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/" rel="alternate" type="text/html" title="Manage User Roles" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/users_list.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add Teacher</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>Every now and then you will need to add or remove users from your website team, but managing individual permissions can be overly complicated. The application simplifies the process by organising permissions into user roles. To manage the users and roles navigate to the admin area (wp-admin) and find ‘Users’ in the left menu.</p>
+
+<p>From the users section you can see all of the users that have access to the site. You can remove users or reset passwords from this page by clicking the check box next to the user and using the Bulk Actions dropdown menu.</p>
+
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/new_user.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add a Teacher</span></figcaption>
+</figure>
+
+<h2 id="adding-a-new-user">Adding a new user</h2>
+
+<ol>
+  <li>Click ‘Add New User’</li>
+  <li>Scroll down to the section ‘Add New User’</li>
+  <li>Add the email address of the user you want to include.</li>
+  <li>Set the level of access the user should have by defining the role</li>
+  <li>Keep the ‘Skip Confirmation Email’ UnChecked</li>
+  <li>And finally click the button Add New User</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Add Teacher]]></summary></entry><entry><title type="html">Add Paragraph Style with 2 Columns</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/" rel="alternate" type="text/html" title="Add Paragraph Style with 2 Columns" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_2_col.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Paragraph Style with 2 Columns</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>Using a grid component for body text will provide benefits to both the component user and the end reader. The grid layout improves the readability of text so that a visitor to the page can easily navigate the information they are looking for. The 2 columns layout will allow you to structure copy into relevant and orderly sections. This design format is most suitable for a tablet, desktop, or widescreen. For mobile it will display as a single column</p>
+
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_2_col_settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Body Text 2 Columns Settings</span></figcaption>
+</figure>
+
+<h2 id="using-the-paragraph-style-component">Using the Paragraph Style Component</h2>
 
 <ol>
   <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
   <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
   <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Statistics 4 Columns</li>
-  <li>The settings box will open out select the icon you want to use</li>
-  <li>Add the Statistic and Statistics title</li>
-  <li>Complete for all tabs</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-  <li>To create multiple rows simply repeat the process</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Research shows that the average user spends less than 6 seconds reading written content on a homepage - so use that time wisely &amp; get the stats in front of them!</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Statistics 4 Columns]]></summary></entry><entry><title type="html">Statistics Left Image</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage/" rel="alternate" type="text/html" title="Statistics Left Image" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_left.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics Left Image</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Good statistics are important for any organisation and an ideal way of relaying positive information to potential parents and guardians. Visitors to your website want to hear about your achievements but they want to receive details in an easy and efficient way. Stats don’t have to be dry and boring! You can utilise this simple component to add an image to data to help illustrate your point and engage the user.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_left_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics Left Image Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-statistics-component">Using the Statistics Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Statistics with Image</li>
-  <li>The settings box will open out add your statistics and subtitles</li>
-  <li>Add an title</li>
-  <li>Select the image you want to use.</li>
-  <li>Choose if you want the image left aligned or leave right by default</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use this design component to boast about your many successes in a succinct and appealing way.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Statistics Left Image]]></summary></entry><entry><title type="html">Add Statistics With Map</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithMap/" rel="alternate" type="text/html" title="Add Statistics With Map" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithMap</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithMap/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_map.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics With Map</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Maps help make any web page more interesting so using this map component is an intelligent way to display statistics about your student body or global school family. Maps are an interactive type of content, they engage viewers in a different way to other graphics and images, exerting positive thinking about exciting things like travel and far away fascinating countries. This component allows you to create tooltips to highlight activity across the globe.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_map_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics Map Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-statistics-component">Using the Statistics Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Find the “CTA component” and click the option</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Why not use the map graphics to pinpoint where your successful alumni are now studying, working, or residing to illustrate internationalism and success?</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Statistics With Map]]></summary></entry><entry><title type="html">Add Statistics With Numbers</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithNumbers/" rel="alternate" type="text/html" title="Add Statistics With Numbers" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithNumbers</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsWithNumbers/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_numbers.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics With Numbers</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Let the numbers speak for themselves! This brilliantly simple graphic component will showcase your positive statistics in a clear and concise way, getting your message across to your reader in one quick view. No need for long lists or lines of descriptive texts - just a word or two and a simple impressive number!</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics_numbers_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Numbered Statistics Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-statistics-component">Using the Statistics Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Statistics Numbered</li>
-  <li>The settings box will open out add a title</li>
-  <li>Add the statistics and statistic subtitles</li>
+  <li>Select the option Paragraph Style - 2 columns</li>
+  <li>The settings box will open out add the title and paragraph content</li>
+  <li>By default the component will create two rows of two columns</li>
+  <li>Complete only the first two tabs if you want one row of two columns</li>
+  <li>Continue through the other tabs populating the content</li>
   <li>Click save the component will be added to the end of the page</li>
   <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
 </ol>
 
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
-  <p>You could use this simple graphic component to illustrate important statistics on different pages and subjects throughout your website.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Statistics With Numbers]]></summary></entry><entry><title type="html">How to create rows &amp;amp; columns in WPBakery</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid/" rel="alternate" type="text/html" title="How to create rows &amp;amp; columns in WPBakery" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_4_col.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Paragraph Style with 4 Columns</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>If you are looking to create your own grid layout of add columns to your page this guide will walk you through the necessary steps.</p>
-
-<p>Open the page you want to add the column/grid layout.</p>
-
-<p>First, you need to select a row element, to do this you can either click on the [Add element] button on the page or go to the + icon in the header bar at the top of the page.</p>
-
-<p>From the list of elements available choose [Row].</p>
-
-<p>Next navigate to the element you added on you page, hover your mouse over it to see the row options click on the row layout symbol (the icon with three horizontal lines).</p>
-
-<p>Here you will view the row &amp; column format options available for use that includes simple one and two-column layouts and many multi-column designs.</p>
-
-<p>After setting up your grid layout you can add columns by clicking the + icon on the column options.</p>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use the clever custom layout functionality for when you need a specific customised format to the column design layout to your page.</p>
-</blockquote>
-
-<p>Another way to add a column to the page is to return to the row options and create one via the + icon. This will add a new column to the bottom of the row.</p>
-
-<p>Select the Whenever you want to change the format of a row or column you can do so via the row layout function. This is the icon with 3 lines next to the pencil, when you click it you will see the different column layouts.</p>
-
-<p>With rows and columns in place, you can start adding image and text content to your page.</p>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Paragraph Style with 4 Columns]]></summary></entry><entry><title type="html">Add a Timeline</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddTimeline/" rel="alternate" type="text/html" title="Add a Timeline" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddTimeline</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddTimeline/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/timeline.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>The vertical timeline is a constructive graphic format to use when you have a lot of data or information to present to visitors to your website. A timeline helps to convey the chronological sequence of a series of events that you would like to impart to your audience. Timelines are beneficial as they provide a simple and organised method of recording and tracking events over a period of time, allowing readers to quickly comprehend a large amount of information. This component could be used to effectively explain the exciting development of a faculty and campus, positive improvement in examination results, or the growth of a department.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/timeline_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-timeline-component">Using the Timeline Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Vertical Timeline</li>
-  <li>The settings box will open out add the first year and description</li>
-  <li>After you fill in the first boxes another set of inputs will appear</li>
-  <li>Continue until you have added all of the dates you need</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Take time to carefully collate the details related to every individual event or point that you would like to include in the timeline before you proceed.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Timeline]]></summary></entry><entry><title type="html">Adding a new Wordpress page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/" rel="alternate" type="text/html" title="Adding a new Wordpress page" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/add_a_page.png" alt="Alt for image" />
+  <p>Grids are the perfect component for designers providing an easy and efficient way to add additional text and images to a layout!</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Paragraph Style with 2 Columns]]></summary></entry><entry><title type="html">Adding a new Wordpress page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/" rel="alternate" type="text/html" title="Adding a new Wordpress page" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/wpadmin_pages.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">New Wordpress Page</span></figcaption>
 </figure>
 
@@ -194,7 +121,7 @@
 
 <p>Click the [Save Changes] button and close the pop-up.</p>
 
-<p>Your basic page template has now been created and you can start adding images and text.</p>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[New Wordpress Page]]></summary></entry><entry><title type="html">Add Card Page Links</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks/" rel="alternate" type="text/html" title="Add Card Page Links" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks/"><![CDATA[<figure>
+<p>Your basic page template has now been created and you can start adding images and text.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[New Wordpress Page]]></summary></entry><entry><title type="html">Add Card Page Links</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks/" rel="alternate" type="text/html" title="Add Card Page Links" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddCardPageLinks/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/card_page_links.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Page Links</span></figcaption>
 </figure>
@@ -277,4 +204,30 @@
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
   <p>Use this form component to encourage visitors to book a tour of your campus or to accept an invitation to an open day.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Lead Form]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Lead Form]]></summary></entry><entry><title type="html">Add a Logo slider</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider/" rel="alternate" type="text/html" title="Add a Logo slider" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo_slider.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Logo Slider</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>A slider is a great component to use on a webpage to display a series of logos or images. Content displayed in a slider will add vibrancy to your site, help your organisation look more appealing, and engage your readers. Users benefit from this type of presentation as images and information are collated in one place, and sliders are easy to navigate.</p>
+
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo_slider_settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Logo Slider Settings</span></figcaption>
+</figure>
+
+<h2 id="using-the-slider-component">Using the Slider Component</h2>
+
+<ol>
+  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
+  <li>Click the + symbol on the top menu to open the component menu</li>
+  <li>Navigate to the section Next-Gen</li>
+  <li>Find the “CTA component” and click the option</li>
+</ol>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>Research has shown that sliders increase conversion rates!</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Logo Slider]]></summary></entry></feed>

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Adding a new Wordpress page
-categories: [Component Guides]
+categories: [Wordpress Admin]
 author: Anna Browell
 ---
-{% include image.html img="add_a_page.png" style="wide" lightbox="false" alt="Alt for image" caption="New Wordpress Page" %}
+{% include image.html img="wpadmin_pages.png" style="wide" lightbox="false" alt="Alt for image" caption="New Wordpress Page" %}
 
 
 ## Description

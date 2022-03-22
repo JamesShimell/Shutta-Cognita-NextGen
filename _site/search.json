@@ -9,6 +9,54 @@
     } ,
   
     {
+      "title"    : "Manage User Roles",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ManageUserRoles/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit your school details",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ManageGlobalDefinitions/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Remove a component from a page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/DeleteComponent/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Our Testimonials CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Testimonials/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Our Teachers CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Teachers/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Galleries CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Galleries/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Add a Timeline",
       "category" : "",
       "tags"     : "",
@@ -269,6 +317,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/Shutta-Cognita-NextGen/AddLeadFormSection/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Set up a landing page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddLandingPage/",
       "date"     : "2022-02-09 00:00:00 +0700"
     } ,
   

@@ -19,14 +19,12 @@ Aligning a series of small images to the left side of a page is a simple way to 
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Select the option Image with Paragraph
-5. The settings box will open out, here you can add a title and your paragraph text
-6. Include call to action button by completing the Button text and button link input
-7. This component supports different styles open the Style Settings Tab
-8. From this tab you can alternate the image alignment
-9. You can choose to include the branding element or add a drop shadow
-10. Click save the component will be added to the end of the page
-11. You can drag it to the right place in your page by selecting the left corner of the row
+4. Select the option Small Image with Paragraph
+5. The settings box will open out, select template image with icons or image with paragraph
+6. Add your image and title, then complete the paragraph content
+7. Include call to action button by completing the Button text and button link input
+8. Click save the component will be added to the end of the page
+9. You can drag it to the right place in your page by selecting the left corner of the row
 
 
 ## Pro Tip

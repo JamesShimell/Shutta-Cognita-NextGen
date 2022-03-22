@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create rows & columns in WPBakery
-categories: [Component Guides]
+categories: [Wordpress Admin]
 author: Anna Browell
 ---
 {% include image.html img="body_text_4_col.png" style="wide" lightbox="false" alt="Alt for image" caption="Paragraph Style with 4 Columns" %}
