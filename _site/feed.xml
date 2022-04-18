@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-03-22T13:43:15+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Manage Our Testimonials CPT</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/" rel="alternate" type="text/html" title="Manage Our Testimonials CPT" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-04-18T07:25:27+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Manage Our Teachers CPT</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Teachers/" rel="alternate" type="text/html" title="Manage Our Teachers CPT" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/CPT-Teachers</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Teachers/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/teacher_list.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add Teacher</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>For types of content that follow a similar structure Wordpress allows us to create a custom post type to manage this content. For Our Teachers we have created the custom post type Teachers. To access the area open the admin area (wp-admin) and click on the Teachers item on the left menu.</p>
+
+<p>The teacher management page allows you to view all the current teacher records. You can edit an existing record or add a new Teacher record.</p>
+
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/add_a_teacher.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add a Teacher</span></figcaption>
+</figure>
+
+<h2 id="adding-a-teacher">Adding a Teacher</h2>
+
+<ol>
+  <li>Click Add New teacher.</li>
+  <li>In the title section add the teachers name.</li>
+  <li>Add the description detail in the paragraph section.</li>
+  <li>The teachers position can be completed in the field labeled teachers position</li>
+  <li>To add a profile picture find the featured image section on the right side of the page and 1. 1. upload the teachers profile picture.</li>
+  <li>We can also categorize the content by marking the teacher post as part of the Academic or  Leadership teams</li>
+  <li>To add the record you will need to click publish.</li>
+  <li>After you publish the record you will see the new record in any existing Our Teachers components where the categories have been set up to match.</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Add Teacher]]></summary></entry><entry><title type="html">Manage Our Testimonials CPT</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/" rel="alternate" type="text/html" title="Manage Our Testimonials CPT" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/CPT-Testimonials/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/testimonials_settings_list.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add Testimonials</span></figcaption>
 </figure>
@@ -49,7 +76,55 @@
 
 <p>To update these details navigate to the admin section (wp-admin) towards the bottom of the menu you should notice the menu item Next-Gen Options.</p>
 
-<p>Open the definitions section, here you can update the any of your global site definitions and your site will automatically update these details where they have been used.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Global definitions]]></summary></entry><entry><title type="html">Manage User Roles</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/" rel="alternate" type="text/html" title="Manage User Roles" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/"><![CDATA[<figure>
+<p>Open the definitions section, here you can update the any of your global site definitions and your site will automatically update these details where they have been used.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Global definitions]]></summary></entry><entry><title type="html">Manage Page Titles and SEO</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ManagePageContent/" rel="alternate" type="text/html" title="Manage Page Titles and SEO" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ManagePageContent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ManagePageContent/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/page_seo" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Edit Page</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>To edit the more SEO specific content of your page such as the URL name, the page title and the meta description. Edit the Wordpress page in the default Wordpress backend editor.</p>
+
+<h2 id="manage-page">Manage Page</h2>
+
+<ol>
+  <li>Navigate to pages</li>
+  <li>Hover on the page you want to edit</li>
+  <li>Instead of clicking ‘Edit with WPBakery’, click ‘Edit’.</li>
+  <li>The page title and the page url are easily editable in the top part of the page</li>
+  <li>Scroll down to the Yoast SEO Section and at the button you will see an input for meta description</li>
+  <li>All changes require the button Update to take effect</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Edit Page]]></summary></entry><entry><title type="html">How to create rows &amp;amp; columns in WPBakery</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid/" rel="alternate" type="text/html" title="How to create rows &amp;amp; columns in WPBakery" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/SettingUpAGrid/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_4_col.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Paragraph Style with 4 Columns</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>If you are looking to create your own grid layout of add columns to your page this guide will walk you through the necessary steps.</p>
+
+<p>Open the page you want to add the column/grid layout.</p>
+
+<p>First, you need to select a row element, to do this you can either click on the [Add element] button on the page or go to the + icon in the header bar at the top of the page.</p>
+
+<p>From the list of elements available choose [Row].</p>
+
+<p>Next navigate to the element you added on you page, hover your mouse over it to see the row options click on the row layout symbol (the icon with three horizontal lines).</p>
+
+<p>Here you will view the row &amp; column format options available for use that includes simple one and two-column layouts and many multi-column designs.</p>
+
+<p>After setting up your grid layout you can add columns by clicking the + icon on the column options.</p>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>Use the clever custom layout functionality for when you need a specific customised format to the column design layout to your page.</p>
+</blockquote>
+
+<p>Another way to add a column to the page is to return to the row options and create one via the + icon. This will add a new column to the bottom of the row.</p>
+
+<p>Select the Whenever you want to change the format of a row or column you can do so via the row layout function. This is the icon with 3 lines next to the pencil, when you click it you will see the different column layouts.</p>
+
+<p>With rows and columns in place, you can start adding image and text content to your page.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Paragraph Style with 4 Columns]]></summary></entry><entry><title type="html">Manage User Roles</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/" rel="alternate" type="text/html" title="Manage User Roles" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/ManageUserRoles/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/users_list.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Add Teacher</span></figcaption>
 </figure>
@@ -74,39 +149,7 @@
   <li>Set the level of access the user should have by defining the role</li>
   <li>Keep the ‘Skip Confirmation Email’ UnChecked</li>
   <li>And finally click the button Add New User</li>
-</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Add Teacher]]></summary></entry><entry><title type="html">Add Paragraph Style with 2 Columns</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/" rel="alternate" type="text/html" title="Add Paragraph Style with 2 Columns" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_2_col.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Paragraph Style with 2 Columns</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Using a grid component for body text will provide benefits to both the component user and the end reader. The grid layout improves the readability of text so that a visitor to the page can easily navigate the information they are looking for. The 2 columns layout will allow you to structure copy into relevant and orderly sections. This design format is most suitable for a tablet, desktop, or widescreen. For mobile it will display as a single column</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/body_text_2_col_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Body Text 2 Columns Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-paragraph-style-component">Using the Paragraph Style Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Paragraph Style - 2 columns</li>
-  <li>The settings box will open out add the title and paragraph content</li>
-  <li>By default the component will create two rows of two columns</li>
-  <li>Complete only the first two tabs if you want one row of two columns</li>
-  <li>Continue through the other tabs populating the content</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Grids are the perfect component for designers providing an easy and efficient way to add additional text and images to a layout!</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Paragraph Style with 2 Columns]]></summary></entry><entry><title type="html">Adding a new Wordpress page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/" rel="alternate" type="text/html" title="Adding a new Wordpress page" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/"><![CDATA[<figure>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Add Teacher]]></summary></entry><entry><title type="html">Adding a new Wordpress page</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/" rel="alternate" type="text/html" title="Adding a new Wordpress page" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddANewPage/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/wpadmin_pages.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">New Wordpress Page</span></figcaption>
 </figure>
@@ -178,56 +221,4 @@
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
   <p>You could link to a page with this component at the end of an email nurturing campaign.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Enquiry Form]]></summary></entry><entry><title type="html">Add a Lead Form</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddFormLead/" rel="alternate" type="text/html" title="Add a Lead Form" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddFormLead</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddFormLead/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/form_lead.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Lead Form</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Lead forms play an important role on your website as when used effectively, they can a high conversion rate. This lead form component provides several fields, including one for a contact phone number, and can deliver helpful information about the user and their relationship to a potential student.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/cta_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">CTA Setup</span></figcaption>
-</figure>
-
-<h2 id="using-the-timeline-component">Using the Timeline Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Find the “CTA component” and click the option</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use this form component to encourage visitors to book a tour of your campus or to accept an invitation to an open day.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Lead Form]]></summary></entry><entry><title type="html">Add a Logo slider</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider/" rel="alternate" type="text/html" title="Add a Logo slider" /><published>2022-03-19T00:00:00+07:00</published><updated>2022-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddLogoSlider/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo_slider.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Logo Slider</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>A slider is a great component to use on a webpage to display a series of logos or images. Content displayed in a slider will add vibrancy to your site, help your organisation look more appealing, and engage your readers. Users benefit from this type of presentation as images and information are collated in one place, and sliders are easy to navigate.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo_slider_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Logo Slider Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-slider-component">Using the Slider Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Find the “CTA component” and click the option</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Research has shown that sliders increase conversion rates!</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Logo Slider]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Enquiry Form]]></summary></entry></feed>

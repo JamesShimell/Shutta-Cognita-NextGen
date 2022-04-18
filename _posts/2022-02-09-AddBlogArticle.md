@@ -22,7 +22,7 @@ Adding a blog post is also a custom post type like Testimonials or Our Teachers 
 
 1. Click Add Post
 2. Give you post a title
-3. Under the section ‘Post Attributes’ select the template Blog Article
+3. Under the section ‘Post Attributes’ select the template Default
 4. Add a the primary image in the Featured Image section
 5. You can add your article text in the description box
 6. Save your post as a draft

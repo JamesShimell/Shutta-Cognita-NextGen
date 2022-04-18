@@ -19,7 +19,7 @@ Creating a landing page is the same as creating another page on your site. Howev
 
 1. Add a new Page
 2. Give your page a title
-3. From page attributes set the template to ‘Landing page’
+3. From page attributes set the template to ‘Redux Canvas’
 4. Now click Save Draft
 5. Click Frontend Editor to open the page in WPBakery Page Builder
 6. Now you have the basic layout to add your components
