@@ -1,6 +1,102 @@
 [
   
     {
+      "title"    : "Add a Pop Up Component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToUseThePopUpCPT/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "How to re-order testimonials",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToReOrderTestimonials/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Timeline",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTheFormTitlesAndDescriptions/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "How to edit tables",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTables/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Card Link Pop Up",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Statistics Splitter",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsSplitter/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a CTA (right image)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddRightImageCTA/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Grade Calculator",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddGradeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Fee Calculator",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFeeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Calendar Component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCalendarComponent/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Sliding Hero Banner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddASlidingBanner/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a 3 Image Gallery",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/Add3GalleryImageWithTitle/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "How to create rows &amp; columns in WPBakery",
       "category" : "",
       "tags"     : "",
