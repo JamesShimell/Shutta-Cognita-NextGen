@@ -1,32 +1,34 @@
 ---
 layout: post
-title: Add a Timeline
+title: Edit form titles and descriptions
 categories: [Component Guides]
 author: Anna Browell
 ---
-{% include image.html img="timeline.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline" %}
+{% include image.html img="lead_form_section.png" style="wide" lightbox="false" alt="Alt for image" caption="Lead form with background" %}
 
 
 ## Description
 
-The vertical timeline is a constructive graphic format to use when you have a lot of data or information to present to visitors to your website. A timeline helps to convey the chronological sequence of a series of events that you would like to impart to your audience. Timelines are beneficial as they provide a simple and organised method of recording and tracking events over a period of time, allowing readers to quickly comprehend a large amount of information. This component could be used to effectively explain the exciting development of a faculty and campus, positive improvement in examination results, or the growth of a department.
+After adding a lead form component you may want to add details on what leads are registering for. We have provided 4 fields a title and description included on the left, and a title a description specific to the form. We would recommend adding any list details on the form description.
 
-{% include image.html img="timeline_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
+{% include image.html img="lead_form_section_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Lead form settings" %}
 
 
-## Using the Timeline Component
+## Using the Lead Form Component
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the WPBakery component menu
+2. Click the + symbol on the top menu to open the component menu
 3. Navigate to the section Next-Gen
-4. Select the option Vertical Timeline
-5. The settings box will open out add the first year and description
-6. After you fill in the first boxes another set of inputs will appear
-7. Continue until you have added all of the dates you need
-8. Click save the component will be added to the end of the page
-9. You can drag it to the right place in your page by selecting the left corner of the row
+4. Find the "Lead form component" and click the option
+5. The settings box will open
+6. Add a Title and select the form you want to link it to
+7. You will need to open out the design options settings to select a background image
+8. Set your background image style to cover
+9. You can use the other fields to give more details
+10. Click save the component will be added to the end of the page
+11. You can drag it to the right place in your page by selecting the left corner of the row
 
 
 ## Pro Tip
-> Take time to carefully collate the details related to every individual event or point that you would like to include in the timeline before you proceed.
+> Use this form component to encourage visitors to book a tour of your campus or to accept an invitation to an open day.
