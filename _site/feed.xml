@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-06-06T12:50:06+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Add a Card Link Pop Up</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/" rel="alternate" type="text/html" title="Add a Card Link Pop Up" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-06-06T13:00:41+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Add a Card Link Pop Up</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/" rel="alternate" type="text/html" title="Add a Card Link Pop Up" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/activities-pop-up.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Link Pop Up</span></figcaption>
 </figure>
@@ -118,7 +118,7 @@
 <blockquote>
   <p>Take time to carefully collate the details related to every individual event or point that you would like to include in the timeline before you proceed.</p>
 </blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Grade Calculator]]></summary></entry><entry><title type="html">Add a Fee Calculator</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddFeeCalculator/" rel="alternate" type="text/html" title="Add a Fee Calculator" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddFeeCalculator</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddFeeCalculator/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/timeline.png" alt="Alt for image" />
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/fee-calculator.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Fee Calculator</span></figcaption>
 </figure>
 
@@ -129,7 +129,7 @@
 <p>The automatic fee calculator organises these fees by age and grade. This allows parents to look up their childs age and find out the relevant grade a school fee getting the parent to the answer they are looking for more quickly.</p>
 
 <figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/timeline_settings.png" alt="Alt for image" />
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/fee-calculator-settings.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Fee Calculator Settings</span></figcaption>
 </figure>
 

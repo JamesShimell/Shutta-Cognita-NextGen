@@ -4,7 +4,7 @@ title: Add a Fee Calculator
 categories: [Component Guides]
 author: Anna Browell
 ---
-{% include image.html img="timeline.png" style="wide" lightbox="false" alt="Alt for image" caption="Fee Calculator" %}
+{% include image.html img="fee-calculator.png" style="wide" lightbox="false" alt="Alt for image" caption="Fee Calculator" %}
 
 
 ## Description
@@ -13,7 +13,7 @@ Looking for the fees section on a website is an important buying signal. Parents
 
 The automatic fee calculator organises these fees by age and grade. This allows parents to look up their childs age and find out the relevant grade a school fee getting the parent to the answer they are looking for more quickly.
 
-{% include image.html img="timeline_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Fee Calculator Settings" %}
+{% include image.html img="fee-calculator-settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Fee Calculator Settings" %}
 
 
 ## Using the Fee Calculator
