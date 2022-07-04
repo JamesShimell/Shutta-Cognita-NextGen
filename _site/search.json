@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Add Emoticons Testimonial",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddEmoticonTestimonials/",
+      "date"     : "2022-05-29 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Add a Pop Up Component",
       "category" : "",
       "tags"     : "",
@@ -69,6 +77,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/Shutta-Cognita-NextGen/AddFeeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Event Component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddEventComponent/",
       "date"     : "2022-05-20 00:00:00 +0700"
     } ,
   
@@ -405,6 +421,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/Shutta-Cognita-NextGen/CategoriseArticle/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Title",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTitle/",
       "date"     : "2022-02-09 00:00:00 +0700"
     } ,
   
